@@ -1,0 +1,35 @@
+How web works exercise.
+
+
+What is HTTP?
+it stands for hyper text transfor protocol it orgnize the send and reciving data.
+
+what is URL?
+it stands for Unifrom Resource Locator, a URL is the address for a recource.
+
+what is DNS?
+short for Domain Name System, a DNS converts IP address to a human readable language.
+
+what is query sting?
+it is an optional request that will look for similar values in a web.
+
+list two HTTP verbs and thier uses cases?
+* GET - Getting data from a server.
+*POST - Send data to a server.
+
+what is HTTP request?
+HTTP request is a request from the client to a server.
+
+what is an HTTP response?
+HTTP response is the response to the client from a server.
+
+what is a HTTP header? Give a couple example of request and header you have seen.
+Headers provide additional information about the request or the response. Here are some examples:
+Request headers: Host, User-Agent, Accept, Cookie, Cache-Control
+Response headers: Content-Type, Last-Modified, Set-Cookie, Cache-Control
+
+what happen when you type URL in a browser?
+the DNS will convert the name into a IP address.
+the browser will make that request with the IP address.
+the server send back the response.
+the browser makes a request for the request that was origanally send and get response from each of the servers.
